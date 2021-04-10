@@ -5,6 +5,8 @@
 
 using namespace std;
 
+
+// The 3n+1 problem's solution
 void thenProblem() {
     int n, s, l;
     
